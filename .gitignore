@@ -1,0 +1,8 @@
+/target
+/screenshots
+*.log
+.DS_Store
+/CyberGhostVPNSetup.exe
+.opencode/
+target/
+.env
