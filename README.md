@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img alt="Platform: Linux" src="https://img.shields.io/badge/platform-Linux-E9B44C?style=flat-square&amp;labelColor=0F1216">
-  <img alt="Rust 1.81+" src="https://img.shields.io/badge/rust-1.81%2B-E9B44C?style=flat-square&amp;labelColor=0F1216">
-  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-E9B44C?style=flat-square&amp;labelColor=0F1216">
+  <img alt="Rust 1.81+" src="https://emblem.xdan.cc/badge.svg?label=rust&amp;message=1.81%2B&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C">
+  <img alt="Platform: Linux" src="https://emblem.xdan.cc/badge.svg?label=platform&amp;message=Linux&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C">
+  <img alt="License: MIT" src="https://emblem.xdan.cc/badge.svg?label=license&amp;message=MIT&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C">
 </p>
 
 > Ghostline is an independent project. It is not affiliated with CyberGhost or its owner.
