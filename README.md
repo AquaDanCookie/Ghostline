@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img alt="Rust 1.81+" src="https://emblem.xdan.cc/badge.svg?label=rust&amp;message=1.81%2B&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C">
-  <img alt="Platform: Linux" src="https://emblem.xdan.cc/badge.svg?label=platform&amp;message=Linux&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C">
-  <img alt="License: MIT" src="https://emblem.xdan.cc/badge.svg?label=license&amp;message=MIT&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C">
+  <img alt="Rust 1.81+" src="https://emblem.xdan.cc/badge.svg?label=rust&amp;message=1.81%2B&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C&amp;icon=rust">
+  <img alt="Platform: Linux" src="https://emblem.xdan.cc/badge.svg?label=platform&amp;message=Linux&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C&amp;icon=linux">
+  <img alt="License: MIT" src="https://emblem.xdan.cc/badge.svg?label=license&amp;message=MIT&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C&amp;icon=material-symbols:license">
 </p>
 
 > Ghostline is an independent project. It is not affiliated with CyberGhost or its owner.
