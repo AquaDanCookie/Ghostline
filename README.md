@@ -14,6 +14,12 @@
   <img alt="License: MIT" src="https://emblem.xdan.cc/badge.svg?label=license&amp;message=MIT&amp;look=connected&amp;labelColor=%233D3D3D&amp;color=%23E9B44C&amp;icon=material-symbols:license">
 </p>
 
+<p align="center">
+  <img src="docs/Ghostline.png" alt="Ghostline network browser">
+</p>
+
+---
+
 > Ghostline is an independent project. It is not affiliated with CyberGhost or its owner.
 
 Ghostline uses the official `cyberghostvpn` command for live countries, cities, streaming services, servers, connection status, connect, and stop. Imported profile files continue to run through NetworkManager. Account setup and sign-in stay in the official CLI. Ghostline does not ask for your CyberGhost password and has no telemetry, analytics, ads, or upsells.
